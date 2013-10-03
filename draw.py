@@ -1,5 +1,5 @@
 from Tkinter import *
-from random import randint
+import Thing
 
 master = None
 old_x = 0
